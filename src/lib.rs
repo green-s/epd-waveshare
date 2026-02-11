@@ -78,6 +78,7 @@ mod interface;
 pub mod epd1in02;
 pub mod epd1in54;
 pub mod epd1in54_v2;
+pub mod epd1in54_v3;
 pub mod epd1in54b;
 pub mod epd1in54c;
 pub mod epd2in13_v2;
